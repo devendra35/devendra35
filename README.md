@@ -2,7 +2,6 @@
 I’m a CSIT student with a growing passion for web development and programming.
 I work mainly with HTML, CSS, Java, and have basic experience in Python.
 
-<br> BSc. CSIT Student</br>
 
 Interested in Web Technologies, Front-End Development, and Java Programming
 
