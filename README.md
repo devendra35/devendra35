@@ -1,8 +1,8 @@
-<h2 align="left">Hi, I’m Devendra Khanal 👋
+<h2 align="left"> Hi, I’m Devendra. </h2>
 I’m a CSIT student with a growing passion for web development and programming.
 I work mainly with HTML, CSS, Java, and have basic experience in Python.
 
-BSc. CSIT Student
+<br> BSc. CSIT Student</br>
 
 Interested in Web Technologies, Front-End Development, and Java Programming
 
@@ -10,18 +10,11 @@ Enjoy solving problems and learning new tech
 
 Currently improving my skills in Java, CSS design, and Python basics
 
- Open to collaborating on beginner-friendly projects</h2>
+ Open to collaborating on beginner-friendly projects</h>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
