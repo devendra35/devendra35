@@ -1,4 +1,4 @@
-<h2 align="left"> Hi, I’m Devendra. </h2>
+ <h2 align="left"> Hi, I’m Devendra. </h2>
 I’m a CSIT student with a growing passion for web development and programming.
 I work mainly with HTML, CSS, Java, and have basic experience in Python.
 
@@ -8,7 +8,7 @@ Interested in Web Technologies, Front-End Development, and Java Programming
 
 Enjoy solving problems and learning new tech
 
-Currently improving my skills in Java, CSS design, and Python basics
+Currently improving my skills in Java, CSS design, Typescript,React,Html5 and Python basics
 
  Open to collaborating on beginner-friendly projects</h>
 
@@ -31,7 +31,7 @@ Currently improving my skills in Java, CSS design, and Python basics
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+ 
 </div>
 
 ###
