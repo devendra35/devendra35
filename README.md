@@ -2,14 +2,14 @@
 I’m a CSIT student with a growing passion for web development and programming.
 
 
-I work mainly with HTML, CSS, Java, and have basic experience in Python.
+I work mainly with HTML, CSS, Js, and have basic experience in Python.
 
 
-Interested in Web Technologies, Front-End Development, and Java Programming.
+Interested in Web Technologies, Front-End Development, and Js Programming.
 
 Enjoy solving problems and learning new tech.
 
-Currently improving my skills in Java, CSS design, Typescript,React,Html5 and Python basics
+Currently improving my skills in Js, CSS design, Typescript,React,Html5 and Python basics
 
  Open to collaborating on beginner-friendly projects.</h>
 
