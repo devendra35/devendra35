@@ -1,8 +1,4 @@
  <h2 align="left"> Hi, I’m Devendra. </h2>
-I’m a CSIT student with a growing passion for web development and programming.
-
-
-I work mainly with HTML, CSS, Js, and have basic experience in Python.
 
 
 Interested in Web Technologies, Front-End Development, and Js Programming.
