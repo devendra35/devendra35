@@ -10,9 +10,7 @@
   <a href="https://github.com/devendra35">
     <img src="https://img.shields.io/github/followers/devendra35?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://github.com/devendra35?tab=repositories">
-    <img src="https://img.shields.io/github/stars/devendra35?label=Stars&style=for-the-badge" />
-  </a>
+  
   <a href="https://devendra35.com.np/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00A8E8?style=for-the-badge" />
   </a>
